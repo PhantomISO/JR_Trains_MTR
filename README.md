@@ -9,8 +9,8 @@ YouTube: https://www.youtube.com/@soodari6791
 
 This pack require Minecraft Transit Railway Mod (Fabric 1.19.2~)made by jonafanho
 and Nemo's Transit Expansion
-Mod Link(MTR): https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway
-Mod Link(NTE): https://modrinth.com/mod/mtr-nte/
+- Mod Link(MTR): https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway
+- Mod Link(NTE): https://modrinth.com/mod/mtr-nte/
 
 [Model parts developers]
 * Bogie model is made by Meitetsu600v
